@@ -12,7 +12,7 @@ def create_order(body):
 
 #Получение данных о заказе по трек номеру
 def get_data_order_with_track(track_number):
-    url_get_order =  (f"{configuration.URL_SERVICE}/api/v1/orders/track?t={track_number}")
+    url_get_order = f"{configuration.URL_SERVICE}{configuration.GET_ORDER}{track_number}"
     return requests.get(url_get_order)
 
 #Авто тест для проверки того, что заказ создается и по полученному трек номеру можно получить данные о заказе
