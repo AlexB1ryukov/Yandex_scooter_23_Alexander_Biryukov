@@ -27,3 +27,5 @@ def test_order_created_and_data_is_being_output():
     assert response.status_code == 200, f"Запрос не прошел, ошибка: {response.status_code}"
     order_data = response.json()
     print(f"Данные вашего заказа: {order_data}")
+
+# Александр Бирюков, 23-я когорта — Финальный проект. Инженер по тестированию плюс
