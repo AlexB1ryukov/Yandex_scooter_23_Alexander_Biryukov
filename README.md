@@ -40,5 +40,4 @@
 ###### Для запуска теста необходимо в файл configuration скопировать рабочий URL стенда
 ###### Для тестирование необходимо загрузить библиотеки requests и pytest
 
-##### Результат запуска автотеста представлен на фото [Запуск автотеста.png](https://github.com/AlexB1ryukov/Yandex_scooter_23_Alexander_Biryukov/blob/9ec60cbe0ed649125b74ae5e7d98e0b81fc3fd0e/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B0.png)
-](https://github.com/AlexB1ryukov/Yandex_scooter_23_Alexander_Biryukov/blob/4f7d8eec751a170b5c8730bd0f7c6bf792eba9b1/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B0.png)
+##### Результат запуска автотеста представлен на фото [Запуск автотеста.png](https://github.com/AlexB1ryukov/Yandex_scooter_23_Alexander_Biryukov/blob/4f7d8eec751a170b5c8730bd0f7c6bf792eba9b1/%D0%97%D0%B0%D0%BF%D1%83%D1%81%D0%BA%20%D0%B0%D0%B2%D1%82%D0%BE%D1%82%D0%B5%D1%81%D1%82%D0%B0.png)
